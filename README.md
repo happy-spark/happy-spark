@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=happy-spark&show_icons=true&theme=tokyonight)
+![happy-spark's github stats](https://github-readme-stats.vercel.app/api?username=happy-spark&show_icons=true&theme=tokyonight)
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-spark&layout=compact&theme=tokyonight)
 --->
